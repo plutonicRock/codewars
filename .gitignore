@@ -1,0 +1,12 @@
+#Relic visual studios stuff
+*.obj
+*.tlog
+*.sln
+*.idb
+*.pdb
+*.vcxproj.filters
+*.vcxproj
+*.ilk
+
+#Directories
+Debug/
